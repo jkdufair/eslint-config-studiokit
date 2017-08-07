@@ -24,7 +24,7 @@
   "homepage": "https://github.com/purdue-tlt/eslint-config-studiokit#readme",
   "peerDependencies": {
     "babel-eslint": ">= 7",
-    "eslint": ">= 4",
+    "eslint": ">= 3.19",
     "eslint-config-prettier": ">= 2",
     "eslint-plugin-prettier": ">= 2",
     "prettier": ">= 1.5"
